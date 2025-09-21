@@ -17,10 +17,13 @@ ENTER DFS OR BFS OR DFS-Q OR BFS-Q OR BESTFS:
 
 2.The program will output:
 
->Current frontier or queue
->States explored
->Path to the goal state once found
->Goal state confirmation
+->Current frontier or queue
+
+->States explored
+
+->Path to the goal state once found
+
+->Goal state confirmation
 
 #How it Works
 
